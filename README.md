@@ -29,6 +29,11 @@ To deliver actionable insights into Blinkit's retail operations by examining:
 | Sales by Location | Geographic sales trends | Funnel Map |
 | KPI Matrix by Outlet Type | Holistic breakdown of metrics by outlet | Matrix Card |
 
+## 📷 Dashboard Preview
+
+![Home Dashboard](home_dashboard.png)  
+*Dashboard with key metrics and performance indicators*
+
 ## 🛠 Features
 
 - Custom **calendar slicer icon** that toggles the date filter using bookmarks and transparent buttons.
