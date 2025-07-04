@@ -31,7 +31,7 @@ To deliver actionable insights into Blinkit's retail operations by examining:
 
 ## 📷 Dashboard Preview
 
-![Home Dashboard](home_dashboard.png)  
+![Home Dashboard](BlinkIT_Dashboard.png)  
 *Dashboard with key metrics and performance indicators*
 
 ## 🛠 Features
