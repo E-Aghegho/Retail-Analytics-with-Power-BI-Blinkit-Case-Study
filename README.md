@@ -63,5 +63,5 @@ Huge thanks to their channel for making quality learning accessible to everyone!
 ##### [Check them out here](https://www.youtube.com/@DataTutorials1)
 ---
 
-Feel free to fork, clone, or adapt this dashboard for your own use. Feedback and contributions welcome.
+Feel free to fork, clone, or adapt this dashboard for your own use. Feedback and contributions welcome!
 
